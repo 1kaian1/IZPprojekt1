@@ -1,0 +1,3 @@
+C:/Users/Jan Kai Marek/Documents/MEGAsync/Programming/CLionProjects/IZPproject/cmake-build-debug/CMakeFiles/tnine.dir
+C:/Users/Jan Kai Marek/Documents/MEGAsync/Programming/CLionProjects/IZPproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jan Kai Marek/Documents/MEGAsync/Programming/CLionProjects/IZPproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
